@@ -1,13 +1,13 @@
 # ACIDES v0
 
 ### 1. Deep sequence of forward genetic screening
-![](./Figure/Fig1.png)
+![](./figure/Fig1.png)
 
 ### 2. From NGS count data, ACIDES estimates the score (selectivity) of each variant with 95%-confidence intervals (CIs)
-![](./Figure/Fig2.png)
+![](./figure/Fig2.png)
 
 ### 3. ACIDES corrects the naive rank and estimate Ranking Robustness (RR)
-![](./Figure/Fig3.png)
+![](./figure/Fig3.png)
 
 
 ## What is ACIDES?
