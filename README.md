@@ -29,9 +29,9 @@ accurate statistical scores to individual variants. ACIDES allows experimentalis
 on the fly and can aid protein engineering and research pipelines in 
 a range of applications, including gene therapy.
 
-### For more details: 
+### Validations
 We tested ACIDES first on a random-peptide-insertion experiment and then on multiple public datasets from DE and DMS studies. 
-Please refer to the article [link] published from Nature Communications.
+Please refer to the article for more details.
 
 
 ## Environment
@@ -57,8 +57,8 @@ followed by the installation of constrained-linear-regression as
 The tutorial of ACIDES in Jupyter Notebook is available from 
 [here](./tutorial/ACIDES_tutorial.ipynb). 
 
+## Reference
 
-## Contact information
-
-For technical questions regarding ACIDES, please contact Takahiro Nemoto (nemoto.takahiro.prime@osaka-u.ac.jp)
-
+Takahiro Nemoto, Tommaso Ocari, Arthur Planul, Muge Tekinsoy, Emilia A. Zin, Deniz Dalkara, Ulisse Ferrari, 
+*ACIDES: on-line monitoring of forward genetic screens for protein engineering*, 
+Nat Commun 2023 (in press).
