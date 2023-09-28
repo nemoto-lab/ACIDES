@@ -62,15 +62,3 @@ The tutorial of ACIDES in Jupyter Notebook is available from
 Takahiro Nemoto, Tommaso Ocari, Arthur Planul, Muge Tekinsoy, Emilia A. Zin, Deniz Dalkara, Ulisse Ferrari, 
 *ACIDES: on-line monitoring of forward genetic screens for protein engineering*, 
 Nat Commun 2023 (in press).
-
-## Citing ACIDES
-````
-@article{nemoto2023uncursing,
-  title={Uncursing winner’s curse: on-line monitoring of directed evolution convergence},
-  author={Nemoto, Takahiro and Ocari, Tommaso and Planul, Arthur and Tekinsoy, Muge and Zin, Emilia A and Dalkara, Deniz and Ferrari, Ulisse},
-  journal={bioRxiv},
-  pages={2023--01},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
-}
-````
