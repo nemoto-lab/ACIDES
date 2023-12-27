@@ -1,15 +1,5 @@
 # ACIDES v0
-ACIDES: on-line monitoring of forward genetic screens for protein engineering
-
-### 1. Deep sequence of forward genetic screening
-![](./figure/Fig1.png)
-
-### 2. From NGS count data, ACIDES estimates the score (selectivity) of each variant with 95%-confidence intervals (CIs)
-![](./figure/Fig2.png)
-
-### 3. ACIDES corrects the naive rank and estimate Ranking Robustness (RR)
-![](./figure/Fig3.png)
-
+[ACIDES: on-line monitoring of forward genetic screens for protein engineering](https://www.nature.com/articles/s41467-023-43967-9)
 
 ## What is ACIDES?
 
@@ -33,6 +23,15 @@ a range of applications, including gene therapy.
 ### Validations
 We tested ACIDES first on a random-peptide-insertion experiment and then on multiple public datasets from DE and DMS studies. 
 Please refer to the article for more details.
+
+### 1. Deep sequence of forward genetic screening
+![](./figure/Fig1.png)
+
+### 2. From NGS count data, ACIDES estimates the score (selectivity) of each variant with 95%-confidence intervals (CIs)
+![](./figure/Fig2.png)
+
+### 3. ACIDES corrects the naive rank and estimate Ranking Robustness (RR)
+![](./figure/Fig3.png)
 
 
 ## Environment
@@ -62,4 +61,4 @@ The tutorial of ACIDES in Jupyter Notebook is available from
 
 Takahiro Nemoto, Tommaso Ocari, Arthur Planul, Muge Tekinsoy, Emilia A. Zin, Deniz Dalkara, Ulisse Ferrari, 
 *ACIDES: on-line monitoring of forward genetic screens for protein engineering*, 
-Nat Commun 2023 (in press).
+Nature Communications 14, 8504 (2023).
